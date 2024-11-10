@@ -7,7 +7,7 @@ print(title.center(150))
 
 try:                #Try this code, if the input is either float or integer (True) it runs or it will skip and go into except part.
 
-#This is used to initialize the input through the variable.
+#This is used to declare the variable and store the input through the variable.
 
     a=float(input("Enter the first number: "))
     b=float(input("Enter the second number: "))
